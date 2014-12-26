@@ -1,0 +1,19 @@
+.text-editor {
+	width: 75%;
+	height: 100%;
+	float: left;
+}
+
+.sidebar {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+
+.stats {
+	margin-left: 10px; 
+}
+
+.sidebar h3 {
+	margin-top: 0;
+}
